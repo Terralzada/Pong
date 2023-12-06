@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="a3_pong:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/a3_pong_jar</output-path>
+    <root id="archive" name="a3_pong.jar">
+      <element id="module-output" name="a3_pong" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jogl-java-src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gluegen-java-src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jogl-all-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gluegen-rt-natives-windows-amd64.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
